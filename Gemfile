@@ -45,3 +45,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'jsonapi-resources'
+gem 'nokogiri'
+gem 'rack-cors', :require => 'rack/cors'
+gem 'rest-client'
